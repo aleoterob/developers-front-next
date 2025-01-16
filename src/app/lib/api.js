@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "localhosthttps://developers-front-next.vercel.app/",
+  baseURL: "https://developers-api-controller-production.up.railway.app/",
 });
 
 export default api;
